@@ -1,0 +1,55 @@
+/* body{
+   background-color: rgba(170, 196, 124, 0.712)!important;
+} */
+i{
+   font-size: 1.2em;
+}
+button.navbar-toggler:focus{
+   box-shadow: none;
+}
+.container{
+   width: 75%!important;
+}
+/* .snek-img{
+   width: %;
+} */
+.display-1{
+   /* text-shadow: black 1px 1px 2px !important; */
+   font-size: 7em!important;
+   font-weight: 900!important;
+}
+@media screen and (max-width:768px) {
+   .display-1{
+      font-size: 5em !important;
+   }
+   /* .snek-img{
+      width: 80% !important;;
+   } */
+}
+
+.installation{
+   font-size: 3em!important;
+}
+@media screen and (max-width: 576px) {
+   .installation{
+      font-size: 1.7em!important;
+   }
+}
+
+/* .linux,.mac,.windows{
+   background-color: rgb(43, 49, 54);
+} */
+code{
+
+   background-color: rgb(38, 44, 48);
+   /* background-color:rgba(0, 0, 0, 0.294); */
+   border-radius: 5px;
+}
+
+.manual>div>div{
+   flex-grow:0;
+   flex-basis: 50%;
+}
+.manual-img{
+   width: 75%;
+}
