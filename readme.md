@@ -1,1 +1,1 @@
-Deployment
+(Deployment)[https://okay-head.github.io/Deno-smol_snek/]
