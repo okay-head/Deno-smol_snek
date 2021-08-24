@@ -1,1 +1,1 @@
-[Deployment](https://okay-head.github.io/Deno-smol_snek/)
+[See Deployment](https://okay-head.github.io/Deno-smol_snek/)
